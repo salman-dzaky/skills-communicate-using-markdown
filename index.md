@@ -1,6 +1,6 @@
 # This is an exercise!
 ## Look, an Image!
-<img src="img/Skirk.png" class="img-responsive" alt="Skirk.png"> </div>
+<img src="img/Skirk.png" class="img-responsive" alt="Skirk.png">
 
 ``` python
 print("Hello, Skirk!")
